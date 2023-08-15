@@ -31,4 +31,3 @@ Sou um estudante do curso de Sistemas de Informação na faculdade Christus, atu
 
 ## Guilhermemapurunga13@gmail.com
 
-![snake gif](https://github.com/guilhermemot/guilhermemot/blob/output/github-contribution-grid-snake.svg)
