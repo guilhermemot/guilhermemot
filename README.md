@@ -3,7 +3,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermemapurunga/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-mapurunga-a901271a2/)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermemot&show_icons=true&theme=dracula)
+<div>
+    <a href="https://github.com/guilhermemot">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=guilhermemot&show_icons=true&theme=dracula">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemot&layout=compact&langs_count==168&theme=dracula"/>
+</div>
+
 
 ### Tecnologias que eu uso no meu dia
 
@@ -25,6 +30,3 @@ Sou um estudante do curso de Sistemas de Informação na faculdade Christus, atu
 </div>
 
 ## Guilhermemapurunga13@gmail.com
-
-
-
