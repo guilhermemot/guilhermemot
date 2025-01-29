@@ -21,7 +21,7 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-Sou um estudante do curso de Sistemas de Informação na faculdade Christus, atualmente trabalho como Analista na empresa Innovaro Sistemas, possuo experiencia com o desenvolvimento de sistemas ERP a 2 anos e estou em busca da experiencia na área da programação como desenvolvedor junior.
+Sou um estudante do curso de Sistemas de Informação na faculdade Christus, atualmente trabalho como Consultor de Sistemas na empresa Innovaro Sistemas, possuo experiencia com o desenvolvimento de sistemas ERP a 2 anos e estou em busca da experiencia na área da programação como desenvolvedor junior.
 
 ## Meio para contato:
 
